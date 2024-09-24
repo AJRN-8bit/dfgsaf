@@ -1,0 +1,7 @@
+C:\Users\Lucio\source\repos\N Reinas\bin\Debug\N Reinas.exe.config
+C:\Users\Lucio\source\repos\N Reinas\bin\Debug\N Reinas.exe
+C:\Users\Lucio\source\repos\N Reinas\bin\Debug\N Reinas.pdb
+C:\Users\Lucio\source\repos\N Reinas\obj\Debug\N Reinas.csproj.AssemblyReference.cache
+C:\Users\Lucio\source\repos\N Reinas\obj\Debug\N Reinas.csproj.CoreCompileInputs.cache
+C:\Users\Lucio\source\repos\N Reinas\obj\Debug\N Reinas.exe
+C:\Users\Lucio\source\repos\N Reinas\obj\Debug\N Reinas.pdb
