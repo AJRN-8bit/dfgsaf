@@ -1,0 +1,7 @@
+C:\Users\Lucio\source\repos\Laboratorio 1 de Algoritmos\bin\Debug\Laboratorio 1 de Algoritmos.exe.config
+C:\Users\Lucio\source\repos\Laboratorio 1 de Algoritmos\bin\Debug\Laboratorio 1 de Algoritmos.exe
+C:\Users\Lucio\source\repos\Laboratorio 1 de Algoritmos\bin\Debug\Laboratorio 1 de Algoritmos.pdb
+C:\Users\Lucio\source\repos\Laboratorio 1 de Algoritmos\obj\Debug\Laboratorio 1 de Algoritmos.csproj.AssemblyReference.cache
+C:\Users\Lucio\source\repos\Laboratorio 1 de Algoritmos\obj\Debug\Laboratorio 1 de Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Lucio\source\repos\Laboratorio 1 de Algoritmos\obj\Debug\Laboratorio 1 de Algoritmos.exe
+C:\Users\Lucio\source\repos\Laboratorio 1 de Algoritmos\obj\Debug\Laboratorio 1 de Algoritmos.pdb
